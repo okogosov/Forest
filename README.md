@@ -1,4 +1,4 @@
-Forest is Console Application, that uses PPL.DLL, translated  originally written in C#, into C++.
+Forest is the Console Application, that uses PPL.DLL, translated  originally written in C#, into C++.
 
 CodeGen.exe is Console Utility, is created by Monica AI in accordance with requirements, defined in DevelopmentTask.zip with minor changing. 
 

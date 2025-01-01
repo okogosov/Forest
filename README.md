@@ -12,7 +12,7 @@ Forest.exe version v.1.0.0.1 is uploaded 26/11/2024. This version includes only 
 
 more will be added in the next version.
 
-What's new in version v.1.0.0.2
+What's new in version v.1.0.0.2 (01/01/2025)
 
 - improved performance
 - added 2 libraries: Vector.Dll, File.Dll 

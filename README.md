@@ -11,3 +11,8 @@ Forest is in testing phase now and will be available soon.
 Forest.exe version v.1.0.0.1 is uploaded 26/11/2024. This version includes only the following DLLs - Math,Console,String,Stack,
 
 more will be added in the next version.
+
+What's new in version v.1.0.0.2
+
+- improved performance
+- added 2 libraries: Vector.Dll, File.Dll 

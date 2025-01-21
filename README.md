@@ -17,6 +17,6 @@ What's new in version v.1.0.0.2 (01/01/2025)
 - improved performance
 - added 2 libraries: Vector.Dll, File.Dll
 
-  What's new in version v.1.0.0.3 (21/01/2025)
-  - added libraries: Directory.Dll, File.Dll, Queue.Dll, Vector.Dll, Matrix.Dll, Erato.Dll
-  - added samples  
+What's new in version v.1.0.0.3 (21/01/2025)
+- added libraries: Directory.Dll, File.Dll, Queue.Dll, Vector.Dll, Matrix.Dll, Erato.Dll
+- added samples  

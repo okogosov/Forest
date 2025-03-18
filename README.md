@@ -23,7 +23,8 @@ What's new in version v.1.0.0.3 (21/01/2025)
 - added samples
 
 What's new in version v.1.0.0.4 (18/03/2025)
- 
+
+- FOREST - Future Oriented Rapid Execution Smart Tools 
 - added functions Sort to DLLs Vector.DLL and Matrix.DLL
 - added library Dataframe.DLL, the algorithm has been changed and errors have been fixed compared to C# DataFrame
 - added samples

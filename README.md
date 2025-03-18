@@ -19,4 +19,11 @@ What's new in version v.1.0.0.2 (01/01/2025)
 
 What's new in version v.1.0.0.3 (21/01/2025)
 - added libraries: Directory.Dll, File.Dll, Queue.Dll, Vector.Dll, Matrix.Dll, Erato.Dll
-- added samples  
+- added samples
+
+- What's new in version v.1.0.0.4 (18/03/2025)
+- added functions Sort to DLLs Vector.DLL and Matrix.DLL
+- added library Dataframe.DLL, the algorithm has been changed and errors have been fixed compared to C# DataFrame
+- added samples
+- the Tutorial Forest has been supplemented
+- at the moment the creation of new versions for C# PPL is suspended

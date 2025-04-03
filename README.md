@@ -31,7 +31,8 @@ What's new in version v.1.0.0.4 (18/03/2025)
 - the Tutorial Forest has been supplemented
 - at the moment the creation of new versions for C# PPL is suspended
 
-  What's new in version v.1.0.0.5 (03/04/2025)
+
+What's new in version v.1.0.0.5 (03/04/2025)
   
 - added new libraries with code: new Dictionary, Convert, Random
 - the execution speed limitations are removed, as a result this version works 2 times faster

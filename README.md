@@ -37,5 +37,5 @@ What's new in version v.1.0.0.5 (03/04/2025)
 - the execution speed limitations are removed, as a result this version works 2 times faster
 - added samples and the Tutorial Forest has been supplemented
 
-16/04/2025 - grammatical errors corrected in Tutorial.pdf and in warnings  
+16-17/04/2025 - grammatical errors corrected in Tutorial.pdf and in warnings, discovered during creation html pages for site.  
 

@@ -39,3 +39,7 @@ What's new in version v.1.0.0.5 (03/04/2025)
 
 16-18/04/2025 - grammatical errors corrected in Tutorial.pdf and in warnings, discovered during creation html pages for site.  
 
+What's new in version v.1.0.0.6 (27/04/2025)
+
+- improved command shell
+- Tutorial Forest.pdf has been significantly corrected

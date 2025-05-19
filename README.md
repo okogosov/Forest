@@ -43,3 +43,8 @@ What's new in version v.1.0.0.6 (27/04/2025)
 
 - improved command shell
 - Tutorial Forest.pdf has been significantly corrected
+
+What's new in version v.1.0.0.7 (19/05/2025)
+
+- improved error diagnostics
+- website available - Forestlang.com

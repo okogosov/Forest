@@ -51,6 +51,10 @@ What's new in version v.1.0.0.7 (19/05/2025)
 
 
 Transformation Code from scr to ppl    TransformerCopy.Clear.zip()
+
 This sample is created by Gemini in accordance with requirements, described in 
 	requirementsVar.txt,requirementsArray.txt,requirementsNotTransformation.txt
+ 
 It is only 2 commands - var and array & NotationTransformations.
+These requirements are realized in project Forest without AI and with additional details.
+

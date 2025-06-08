@@ -58,3 +58,6 @@ This sample is created by Gemini in accordance with requirements, described in
 It is only 2 commands - var and array & NotationTransformations.
 These requirements are realized in project Forest without AI and with additional details.
 
+08/06/2025
+
+Project Parser - is is the simplified version of Parser from Forest with detailed explanations

@@ -60,4 +60,4 @@ These requirements are realized in project Forest without AI and with additional
 
 08/06/2025
 
-Project Parser - is is the simplified version of Parser from Forest with detailed explanations
+Project ParserCopy.Clear.zip - it is the simplified version of Parser from Forest with detailed explanations

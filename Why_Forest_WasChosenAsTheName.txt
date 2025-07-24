@@ -1,0 +1,48 @@
+Coding in the Forest: A Simple Guide to Forest's Trees 🌳
+Have you ever tried to find a specific file on a disorganized computer? It can be a nightmare! The Forest programming language avoids this mess by storing all of its data and functions in a neat, logical structure called a Tree. 
+Think of it as a well-organized digital forest where everything has its proper place. This entire structure is set up for you automatically when the program starts.
+
+Let's take a walk through this forest and explore its main areas.
+
+The Three Main Trunks are Your Code's Foundation:
+	Functions, NameSpace, and Configuration.
+
+📚The Functions Tree: This is where all your reusable code—your functions—is stored. By default, it comes pre-stocked with a set of common functions to get you started. You can also add your own custom functions from files using the readcode command. 
+You can even create special "nodes" or folders inside this tree to group related functions, like putting all your calculation tools in a Functions.Calc node.
+
+⚙️ The Configuration Tree: This tree holds all the settings for your environment. It's filled from a Configuration.data file and controls things like which functions are loaded by default, which user modules are imported and other control properties.
+
+🛠️ The NameSpace Tree: This is where your data lives. It's split into two crucial areas: Global and Local.
+
+The Global Space: This area holds all the public data (variables, arrays,structures) that needs to be shared across your entire project. Any function, no matter where it is, can access the public data on this workbench.
+
+The Local Space: When a function runs, it gets its own temporary area in the Local tree. This is where it stores variables that are only needed for that specific task. As soon as the function is finished, this area is automatically wiped clean, keeping your workspace tidy and preventing conflicts.
+
+
+A Secret Knock: Public vs. Private Access
+To keep code organized and prevent accidents, Forest has a simple rule for privacy.
+
+Public items are out in the open. Any part of the code can access public functions and variables. For example, a variable named 
+	N2.x is public.
+
+Private items are hidden away and meant for internal use only. You can spot them because their names start with an underscore, like 
+	_f() or _x. 
+These private functions and variables can only be used within the node (functions or structures) where they were created. If you try to access a private variable from the outside, you'll get an error, just like trying to get into a locked room.
+
+Two Ways of coding: scr mode and ppl mode.
+Finally, Forest gives you two ways to write your code.
+
+scr mode is a friendly scripting language that looks familiar to many programmers. It uses commands like 
+	for, switch, if, etc... 
+and every statement ends with a semicolon (;).
+
+ppl mode is the native language of the system. It uses a structure with lots of parentheses.
+
+It should be noted that arrays and structures are also nothing more than trees. In addition, in the Global or Local spaces, you can create trees that logically group data to solve a particular problem.
+
+You can write in the easy-to-read scr mode, 
+and Forest will automatically translate it into ppl code before running it. The main difference to remember is that in ppl mode, you don't use semicolons after statements that are inside blocks like loop or function.
+
+I hope this article explains why Forest was chosen as the name of the programming language.
+
+Check out the official website, documentation, and downloads at ForestLang.com.
